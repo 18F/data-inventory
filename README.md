@@ -3,4 +3,4 @@
 The metadata for these datasets is managed as a CSV in this repository, to be regularly submitted to GSA's data team for incorporation into the agency's enterprise data inventory and [public data listing](http://www.gsa.gov/data.json).  The records can be [viewed here](https://github.com/18F/data-inventory/blob/gh-pages/data.csv) and [downloaded here](https://18f.github.com/data-inventory/data.csv).  
 
 * More information on the metadata schema used [can be found here](https://project-open-data.cio.gov/v1.1/schema/).
-* Are we missing a dataset?  [Let us know](https://github.com/18F/data-inventory/issues)!
+* Are we missing a dataset?  [Let us know](https://github.com/18F/data-inventory/issues/1)!
