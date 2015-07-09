@@ -4,3 +4,5 @@ The metadata for these datasets is managed as a CSV in this repository, to be re
 
 * More information on the metadata schema used [can be found here](https://project-open-data.cio.gov/v1.1/schema/).
 * Are we missing a dataset?  [Let us know](https://github.com/18F/data-inventory/issues/1)!
+* Our POC for this at GSA are cindya.smith@gsa.gov, joseph.castle@gsa.gov
+
