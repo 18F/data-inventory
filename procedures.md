@@ -3,6 +3,14 @@
 ### Process for updating GSA's data catalog 
 1. Update ...
 
+### Questions to ask 18F owner: 
+
+* Can we correctly call the data license CC0?  
+* Is the PoC correct?  
+* When was the underlying data last modified? 
+* How often is the underlying data updated? 
+* ...
+
 
 ### Other Notes
 
