@@ -7,3 +7,9 @@ The metadata for these datasets is managed as a CSV in this repository, to be re
 * Are we missing a dataset?  [Let us know](https://github.com/18F/data-inventory/issues/1)!
 * Our POC for this at GSA are cindya.smith@gsa.gov, joseph.castle@gsa.gov
 
+### Regular Coworking Tasks
+* Review Open Issues.
+* Request metadata changes from Cindy.
+* Review current metadata records for potential updates.   
+* Think through recent releases - are there any new records that need creating?  
+* Look at upcoming releases and try to coordinate the data rollout to include posting.  
