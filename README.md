@@ -8,6 +8,7 @@ The metadata for these datasets is managed as a CSV in this repository, to be re
 * Our POC for this at GSA are cindya.smith@gsa.gov, joseph.castle@gsa.gov
 
 ### Regular Coworking Tasks
+* Consider additions to https://18f.gsa.gov/developer/
 * Review Open Issues.
 * Request metadata changes from Cindy.
 * Review current metadata records for potential updates.   
