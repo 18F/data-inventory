@@ -9,6 +9,7 @@ The metadata for these datasets is managed as a CSV in this repository, to be re
 
 ### Regular Coworking Tasks
 * Consider additions to https://18f.gsa.gov/developer/
+* Check further [how we're doing with our API reporting](https://project-open-data.cio.gov/v1.1/api/).
 * Review Open Issues.
 * Request metadata changes from Cindy.
 * Review current metadata records for potential updates.   
