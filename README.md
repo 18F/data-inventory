@@ -13,6 +13,7 @@ The metadata for these datasets is managed this [google sheet](https://docs.goog
 * Review Open Issues.
 * Request metadata changes from Cindy.
 * Review current metadata records for potential updates.   
+* Look at data.gov to review how the entries resolve.  
 * Think through recent releases - are there any new records that need creating?  
 * Ping team in #general-talk to ask for any updates.  
 * Look at upcoming releases and try to coordinate the data rollout to include posting.  
